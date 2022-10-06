@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Moufid Al
-I am currently a Data Analyst for DELL
+I am currently a Data Analyst for DELL Technologies
 - 👀 I’m interested in Data Analytics, Data Science, and Software Engineering 
 - 🌱 I’m currently learning and working on my SQL & Python skills through courses and small projects!
-- 💞️ I’m looking to collaborate on any project/ issue utilizing SQL and Python for Beginners or where intermediary skills sets are needed.
+- 💞️ I’m looking to collaborate on any project/ issue utilizing SQL and Python
 - 📫 How to reach me : you can reach me on LinkedIn: https://www.linkedin.com/in/moufidalsaig/ !
 
 <!---
